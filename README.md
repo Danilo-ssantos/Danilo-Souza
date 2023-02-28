@@ -11,3 +11,11 @@
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 </p>
+
+
+![ Estatísticas do GitHub de Anurag ](https://github-readme-stats.vercel.app/api?username=Danilo-souza-dos-santos&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula)
+
+<a href=https://www.linkedin.com/in/dani-santos-dev><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
