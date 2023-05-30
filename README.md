@@ -13,8 +13,7 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Danilo-ssantos)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-ssantos&hide=stars,prs,issues,contribs&show_icons=true&theme=merko)
 
 ![Untitled ‑ Made with FlexClip](https://github.com/Danilo-souza-dos-santos/Danilo-souza-dos-santos/blob/main/the-matrix-reloaded-matrix.gif)
 <div>
