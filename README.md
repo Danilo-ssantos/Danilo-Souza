@@ -13,7 +13,7 @@
 </p>
 
 
-![ Estatísticas do GitHub de Anurag ](https://github-readme-stats.vercel.app/api?username=Danilo-souza-dos-santos&hide=stars,prs,issues,contribs&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Danilo-ssantos)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Untitled ‑ Made with FlexClip](https://github.com/Danilo-souza-dos-santos/Danilo-souza-dos-santos/blob/main/the-matrix-reloaded-matrix.gif)
